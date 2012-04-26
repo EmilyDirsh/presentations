@@ -1,0 +1,104 @@
+@import url(http://fonts.googleapis.com/css?family=IM+Fell+English+SC|Michroma|Cabin+Sketch|Rock+Salt|Oswald|Bangers|Press+Start+2P|Holtwood+One+SC);
+@font-face {
+  font-family: 'OverpassBold';
+  src: url("/image/fonts/overpass-bold-wf.eot");
+  src: url("/image/fonts/overpass-bold-wf.eot?#iefix") format("eot"), url("/image/fonts/overpass-bold-wf.woff") format("woff"), url("/image/fonts/overpass-bold-wf.ttf") format("truetype"), url("/image/fonts/overpass-bold-wf.svg#webfontzRhIMntw") format("svg");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Overpass';
+  src: url("/image/fonts/overpass-wf.eot");
+  src: url("/image/fonts/overpass-wf.eot?#iefix") format("eot"), url("/image/fonts/overpass-wf.woff") format("woff"), url("/image/fonts/overpass-wf.ttf") format("truetype"), url("/image/fonts/overpass-wf.svg#webfontiqWxLEM5") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+h3 {
+    letter-spacing: -2px;
+}
+
+.content {
+    /* font-family: 'IM Fell English SC', serif; */
+    font-family: 'Overpass', serif;
+    letter-spacing: -5px;
+}
+
+.bullets > ul > li {
+    margin-left: 0px;
+}
+
+.command, .result {
+    letter-spacing: 0px;
+}
+
+.written {
+    font-family: 'Rock Salt', cursive;
+}
+
+.condense .result {
+    font-size: 0.7em;
+}
+
+.condense > ul > li {
+    font-size: 0.7em;
+    letter-spacing: 0px;
+    padding: 5px;
+}
+
+.comic {
+    font-family: 'Bangers', sans-serif;
+    font-size: 2em;
+    letter-spacing: 0px;
+}
+
+.comic li {
+    font-family: 'Overpass', sans-serif;
+    font-size: 0.5em;
+    letter-spacing: -5px;
+}
+
+.stress li {
+    font-family: 'Bangers', sans-serif;
+    font-size: 2em;
+    font-style: italic;
+    letter-spacing: 0px;
+}
+
+.bold h1 {
+    font-family: 'Holtwood One SC', serif;
+    font-size: 7em;
+    letter-spacing: 0px;
+}
+
+#preso, .slide {
+    border: none !important;
+}
+
+#slideInfo {
+    display: none;
+}
+
+#footer {
+    background: transparent;
+}
+
+/* Full background example courtesy of http://bit.ly/gIvYa1 */
+body.fullScreen {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/* Full background example courtesy of http://bit.ly/gIvYa1 */
+body.fullScreen #preso, body.fullScreen #preso .slide {
+    background: transparent;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+}
