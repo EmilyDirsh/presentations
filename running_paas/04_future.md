@@ -122,7 +122,7 @@ the forums.
 !SLIDE bullets transition=fade
 # Next Step...
 
-* [OpenShift Origin LiveCD](http://openshift.redhat.com/community/)
+* [OpenShift Origin LiveCD](https://openshift.redhat.com/app/opensource/download)
 
 .notes Our goal has been to have the pieces of OpenShift installed and
 configured just like you would expect them on a Linux system.  I know SELinux
