@@ -72,6 +72,12 @@ h3 {
     letter-spacing: 0px;
 }
 
+.bold h2 {
+    font-family: 'Holtwood One SC', serif;
+    font-size: 5em;
+    letter-spacing: 0px;
+}
+
 #preso, .slide {
     border: none !important;
 }

@@ -2,8 +2,10 @@
   "name": "Matt Hicks",
   "description": "Ramblings about Platform as a Service...",
   "sections": [
-    {"section":"title"},
+    {"section":"running_paas/title"},
     {"section":"about_me"},
-    {"section":"running_paas"}
+    {"section":"running_paas/intro"},
+    {"section":"running_paas/content"},
+    {"section":"running_paas/attributions"}
   ]
 }

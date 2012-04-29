@@ -120,9 +120,11 @@ resources for both learning and debugging various issues.  Also, hit us up on
 the forums.
 
 !SLIDE bullets transition=fade
-# Next Step...
+# Next Step... OpenShift Origin
 
-* [OpenShift Origin LiveCD](https://openshift.redhat.com/app/opensource/download)
+* [Download the LiveCD](https://openshift.redhat.com/app/opensource/download)
+* [Join the Forums](https://openshift.redhat.com/community/open-source)
+* [Join the Mailing Lists](http://lists.openshift.redhat.com/)
 
 .notes Our goal has been to have the pieces of OpenShift installed and
 configured just like you would expect them on a Linux system.  I know SELinux
